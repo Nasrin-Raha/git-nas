@@ -1,0 +1,16 @@
+
+
+body {
+    background-color: lightblue;
+    }
+    
+    h1 {
+    color: navy;
+    margin-left: 20px;
+    }
+
+    #container{
+        display: flex;
+        color: #000;
+        align-items: center;
+    }
